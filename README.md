@@ -6,6 +6,8 @@ Classical Studies and advanced Data Engineering.
 As my work focuses on long-term institutional infrastructure, most of my 
 contributions happen within organizations rather than on this personal profile.
 
+## Involvements
+
 ### Current Responsibilities
 - **Maintainer & Lead Architect** for [Imagines Nummorum](https://github.com/imagines-nummorum) (Graph-based Image Semantics, 2025–2050).
 - **Admin/DevOp** for the [TELOTA](https://github.com/telota) DH working group at the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW). 
@@ -27,5 +29,12 @@ My work is rooted in a deep dual background:
 - **Mastodon:** [@jkoester@sigmoid.social](https://sigmoid.social/@jkoester)
 - **Bluesky:** [@jankoester.bsky.social](https://bsky.app/profile/jankoester.bsky.social)
 
----
-*Building and maintaining the digital foundations for the future of antiquity.*
+## Current Status: Preparing v0.9 Draft & Tech Demo for Imagines Nummorum Graph Model
+Finalizing the publication draft and a technical demonstration for our Property Graph Model (v0.9).
+
+Key Focus Areas:
+
+* Formal Description of Compositional Data: Modeling the complex semantic relationships within ancient imagery.
+* Quantification of Uncertainty: Implementing a framework for handling ambiguous and fragmentary data in knowledge graphs.
+
+The public release of the core schema and the tech demo is scheduled for January 2026.
