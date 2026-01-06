@@ -29,12 +29,5 @@ My work is rooted in a deep dual background:
 - **Mastodon:** [@jkoester@sigmoid.social](https://sigmoid.social/@jkoester)
 - **Bluesky:** [@jankoester.bsky.social](https://bsky.app/profile/jankoester.bsky.social)
 
-## Current Status: Preparing v0.9 Draft & Tech Demo for Imagines Nummorum Graph Model
-Finalizing the publication draft and a technical demonstration for our Property Graph Model (v0.9).
-
-Key Focus Areas:
-
-* Formal Description of Compositional Data: Modeling the complex semantic relationships within ancient imagery.
-* Quantification of Uncertainty: Implementing a framework for handling ambiguous and fragmentary data in knowledge graphs.
-
-The public release of the core schema and the tech demo is scheduled for January 2026.
+## Current Status: Released v0.9.2 Draft & Tech Demo for IDEA, Imagines Nummorum Graph Model
+See [github.com/imagines-nummorum/idea-graph-framework](https://github.com/imagines-nummorum/idea-graph-framework)
