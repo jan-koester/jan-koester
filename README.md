@@ -29,5 +29,6 @@ My work is rooted in a deep dual background:
 - **Mastodon:** [@jkoester@sigmoid.social](https://sigmoid.social/@jkoester)
 - **Bluesky:** [@jankoester.bsky.social](https://bsky.app/profile/jankoester.bsky.social)
 
-## Current Status: Released v0.9.3 Draft & Tech Demo for IN.IDEA, Imagines Nummorum Graph Model
+## Current Status
+**Released v0.9.3 Draft & Tech Demo for IN.IDEA, Imagines Nummorum Graph Model**  
 See [github.com/imagines-nummorum/idea-graph-framework](https://github.com/imagines-nummorum/idea-graph-framework)
