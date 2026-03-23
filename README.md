@@ -26,9 +26,10 @@ My work is rooted in a deep dual background:
 
 ### Identity & Connectivity
 - **ORCID:** [0000-0003-2713-5207](https://orcid.org/0000-0003-2713-5207)
+- **LinkedIn:** [jan-k%C3%B6ster-b2858b1aa](https://www.linkedin.com/in/jan-k%C3%B6ster-b2858b1aa)
 - **Mastodon:** [@jkoester@sigmoid.social](https://sigmoid.social/@jkoester)
 - **Bluesky:** [@jankoester.bsky.social](https://bsky.app/profile/jankoester.bsky.social)
 
 ## Current Status
-**Released v0.9.3 Draft & Tech Demo for IN.IDEA, Imagines Nummorum Graph Model**  
-See [github.com/imagines-nummorum/idea-graph-framework](https://github.com/imagines-nummorum/idea-graph-framework)
+* [IN.IDEA](https://github.com/imagines-nummorum/idea-graph-framework) v0.9.4 released
+* [Prototype for GraphRAG-driven Agentic Reasoning](https://github.com/imagines-nummorum/agentic-graph-rag) v0.1.0, based on IN.IDEA released
