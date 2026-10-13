@@ -6,6 +6,14 @@ Classical Studies and advanced Data Engineering.
 As my work focuses on long-term institutional infrastructure, most of my 
 contributions happen within organizations rather than on this personal profile.
 
+## Overt AI - Being Human in Latent Space
+Likeness is finally out: An AI-Realized Concept Album as a Field Experiment in Declared Intent, Cybernetic Workflows, and Methodology. 
+Indie-folk steeped in maritime Gothic.  
+Check out the **[Notes](https://github.com/humans-in-latent-space/likeness-lp)**: 
+Rather than treating artificial intelligence as a push-button novelty or a tool for automated commercial slop, this repository operates 
+within the traditions of **practice-as-research** and **critical making**. It investigates what happens when we reject volume and velocity as metrics, 
+replacing them with rigorous aesthetic intentionality, manual audio engineering, and ethical accountability.
+
 ## Involvements
 
 ### Current Responsibilities
@@ -30,6 +38,6 @@ My work is rooted in a deep dual background:
 - **Mastodon:** [@jkoester@sigmoid.social](https://sigmoid.social/@jkoester)
 - **Bluesky:** [@jankoester.bsky.social](https://bsky.app/profile/jankoester.bsky.social)
 
-## Current Status
+## Current Projects
 * [IN.IDEA](https://github.com/imagines-nummorum/idea-graph-framework) v0.9.4 released
 * [Prototype for GraphRAG-driven Agentic Reasoning](https://github.com/imagines-nummorum/agentic-graph-rag) v0.1.0, based on IN.IDEA released
